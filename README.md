@@ -9,5 +9,5 @@ MelBERT weights (413MB): https://sotonac-my.sharepoint.com/:u:/g/personal/sjxl1u
 
 Training Checkpoints (12.4GB): https://sotonac-my.sharepoint.com/:f:/g/personal/sjxl1u22_soton_ac_uk/IgAAOU1ytJraSK8FKmE48Jj_AcHaNTjM85ZL2b_mLNf9V4M?e=wZge4d&download=1
 
-Setup required for Model Weights and Training Checkpoints
+Setup required for Model Weights and Training Checkpoints\n
 need to update the file paths and ensure that it has the correct files
