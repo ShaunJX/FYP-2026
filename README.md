@@ -1,6 +1,8 @@
 The following are the files used to clean the datasets, implement, traina and evaluatie the model.
 Google Colab Pro+ was used to run them. It is not recommended to run these files from here due to the differing file paths.
 
+Dataset 1 is the df_small and Dataset 2 is the df_big
+
 Download links for the institute of the University of Southampton
 
 Dataset 2 (494 MB): https://sotonac-my.sharepoint.com/:x:/g/personal/sjxl1u22_soton_ac_uk/IQCq4JZ_bVWRR7oEXbrhKtARAajpMJPPt4BuaGK59pmswxw?e=My70sf&download=1
