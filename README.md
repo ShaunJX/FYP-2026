@@ -1,4 +1,4 @@
-The following are the files used to clean the datasets, implement, train and evaluatie the model.
+The following are the files used to clean the datasets, implement, train and evaluate the model.
 Google Colab Pro+ was used to run them. It is not recommended to run these files from here due to the differing file paths.
 
 Dataset 1 is the df_small and Dataset 2 is the df_big
